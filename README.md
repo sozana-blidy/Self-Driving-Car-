@@ -1,4 +1,4 @@
-# Self-Driving-Car-
+# Self-Driving-Car
 This work contains of three stages:
 1- create Multi-task learning CNN model from scratch to classify traffic signs and traffic lights.
 2- create region of interest model using YOLOv4 to extract road signs from street view.
